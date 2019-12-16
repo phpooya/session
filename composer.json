@@ -1,0 +1,20 @@
+{
+    "name": "phpooya/session",
+    "description": "session management system.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pooya",
+            "email": "peraghi@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "phpooya\\session\\": ""
+        },
+        "files": []
+    }
+}
